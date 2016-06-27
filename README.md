@@ -5,8 +5,7 @@ Implementation of Nega-Max Algorithm w/ a few heuristics for the game Othello/Re
 This was a project for UCSB's CS165A - Artificial Intelligence course. This code is free for anyone to use as they see fit.
 If you are in the class, or a similar class, please do your own work. It's why you're in school you know...to learn.
 
-Copyright (c) <year> <copyright holders>
-
+Copyright (c) 2016 Carl Mueller
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
